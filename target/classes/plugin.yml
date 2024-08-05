@@ -1,0 +1,8 @@
+name: FakeChatPlugin
+version: '1'
+main: top.earthvillage.fakechatplugin.FakeChatPlugin
+api-version: '1.20'
+commands:
+  说话:
+    description: "强制某人说话"
+    usage: "/说话 <玩家名> <文字>"

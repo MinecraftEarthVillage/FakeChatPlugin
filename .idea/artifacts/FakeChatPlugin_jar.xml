@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FakeChatPlugin:jar">
+    <output-path>$PROJECT_DIR$/../../../MC/server/群组测试/mohist1.20.1/plugins</output-path>
+    <root id="archive" name="FakeChatPlugin.jar">
+      <element id="module-output" name="FakeChatPlugin" />
+    </root>
+  </artifact>
+</component>
